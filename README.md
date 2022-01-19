@@ -1,3 +1,3 @@
 # Hello-World
-Firts Repository
+First Repository
 idk what to write:D
